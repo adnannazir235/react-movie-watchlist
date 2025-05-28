@@ -1,12 +1,34 @@
-# React + Vite
+# 🎬 React Movie Watchlist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Movie Watchlist app** built with **React**, **Vite**, and **Bootstrap 5**.  
+Users can add movies, mark them as watched/unwatched, and view a visual list of their favorite titles.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React (with Hooks)
+- ⚡ Vite (Fast bundler + dev server)
+- 🎨 Bootstrap 5 (for styling)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 📥 Add new movies (name, genre, image, description, and watched status)
+- ✅ Mark movies as watched or unwatched
+- 📃 See all added movies in a clean, card-based layout
+- 🧼 Reset the form anytime
+- 🥳 Displays a message when all movies are watched!
+
+---
+
+## 🌐 Live Demo
+
+[🔗 View the deployed site](https://adnannazir235.github.io/react-movie-watchlist)
+
+---
+
+## 📢 Feedback / Connect
+
+If you have feedback or suggestions, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/adnannazir235/).
