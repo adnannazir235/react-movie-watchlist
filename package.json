@@ -1,14 +1,14 @@
 {
-  "name": "movie-watchlist",
+  "name": "react-movie-watchlist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://adnannazir235.github.io/react-movie-watchlist",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
