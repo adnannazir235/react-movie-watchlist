@@ -25,10 +25,10 @@ Users can add movies, mark them as watched/unwatched, and view a visual list of 
 
 ## 🌐 Live Demo
 
-[🔗 View the deployed site](https://adnannazir235.github.io/react-movie-watchlist)
+<a href="https://adnannazir235.github.io/react-movie-watchlist" target="_blank">🔗 View the deployed site</a>
 
 ---
 
 ## 📢 Feedback / Connect
 
-If you have feedback or suggestions, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/adnannazir235/).
+If you have feedback or suggestions, feel free to open an issue or connect with me on <a href="https://www.linkedin.com/in/adnannazir235/" target="_blank">LinkedIn</a>.
